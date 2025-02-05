@@ -11,3 +11,5 @@ Each chapter of the bootcamp is organized into its own directory, containing:
 - Additional generated output files.
 
 Some chapters may have required the use of external datasets. These datasets can be directly downloaded on the [Bootcamp website](https://nlp100.github.io/en/)
+
+The chapter 10 has been replace by another assignment: the exploration of different QA prompts for answering factoid questions in English and in Japanese. The goal is to explore the use of an LLM to generate the correct answer of factoid questions. More explanations can be found on *100knock/chapter10/Project.pdf*. 
